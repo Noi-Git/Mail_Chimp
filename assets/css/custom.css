@@ -1,0 +1,97 @@
+
+.head1 {
+  text-transform: uppercase;
+  font-size: 5.5vh;
+  font-weight: 300;
+  text-align: center;
+  letter-spacing: 3px;
+  color: #5cc9ca;
+}
+
+h1, h4, h3 {
+	color: #5cc9ca;
+	text-align: center;
+}
+
+h2 {
+	text-transform: uppercase;
+	font-size: 23px;
+	font-weight: 400;
+	margin-top: -42px;
+	letter-spacing: 1.2px;
+	text-align: center;
+}
+h3 {
+	font-size: 25px;
+	letter-spacing: 1.4px;
+	word-spacing: 0.7px;
+}
+
+h4 {
+	font-size: 23px;
+	font-weight: 400px;
+	letter-spacing: 0.5px;
+}
+
+.moto {
+	padding-bottom: 40px;
+}
+
+h4, .enrollDate{
+	margin: 30px 0;
+}
+
+.lead {
+	text-align: center;
+	margin: 0 25px;
+	font-size: 18px;
+
+}
+
+
+
+img {
+  width: 150px;
+  height: auto;
+  /*padding: 20px 0;*/
+  vertical-align: middle;
+ 
+}
+
+.developskills, h3{
+	padding: 20px 0 5px 0;
+}
+
+
+
+section {
+	/*padding: 20px 0;*/
+}
+
+
+.title {
+	font-size: 22px;
+	display: inline-block;
+	/*margin: 0 0 0 20px;*/
+	text-align: left;
+}
+
+.detail {
+	font-size: 16px;
+	display: inline-block;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.oddInfo, .evenInfo {
+	padding: 20px 0;
+	margin: 0 20px;
+}
+
+.evenInfo {
+
+	background-color: rgba(153,153,153,0.2);
+}
+
+
+
